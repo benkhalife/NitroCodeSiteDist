@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 
-# مسیرهای رایج مدیریت - حتی اگر وجود ندارند
 Disallow: /admin/
 Disallow: /administrator/
 Disallow: /panel/
@@ -12,13 +11,11 @@ Disallow: /backend/
 Disallow: /cp/
 Disallow: /webadmin/
 
-# مسیرهای ورود - برای امنیت
 Disallow: /login/
 Disallow: /signin/
 Disallow: /auth/
 Disallow: /account/
 
-# سیستم‌های CMS رایج - حتی اگر استفاده نمی‌کنید
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /wp-content/plugins/
@@ -26,18 +23,15 @@ Disallow: /wp-json/
 Disallow: /joomla/
 Disallow: /drupal/
 
-# مسیرهای واقعی سایت شما که باید محافظت شوند
 Disallow: /includes/
 Disallow: /config/
 Disallow: /vendor/
 Disallow: /storage/
 Disallow: /logs/
 
-# فایل‌های حساس
 Disallow: /.*.env$
 Disallow: /.*.sql$
 Disallow: /.*.log$
 Disallow: /.*.bak$
 
-# سایت مپ
 Sitemap: https://nitrocode.ir/sitemap.xml
