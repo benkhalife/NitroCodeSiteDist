@@ -83,6 +83,9 @@
     RewriteEngine On
     RewriteBase /
 
+    # ریدایرکت 301 از /about به /about-us
+    RewriteRule ^about/?$ /about-us [R=301,L]
+
     # اگر فایل یا دایرکتوری وجود دارد، مستقیم دسترسی بده
     RewriteCond %{REQUEST_FILENAME} -f [OR]
     RewriteCond %{REQUEST_FILENAME} -d
