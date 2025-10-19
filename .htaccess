@@ -1,3 +1,5 @@
+
+
 # فعال کردن Gzip
 <IfModule mod_deflate.c>
     # فشرده سازی انواع فایل های متنی
@@ -78,6 +80,9 @@
     </IfModule>
 </FilesMatch>
 
+
+
+
 # بازنویسی مسیرها برای SPA (Vue Router history mode)
 <IfModule mod_rewrite.c>
     RewriteEngine On
@@ -85,6 +90,9 @@
 
     # ریدایرکت 301 از /about به /about-us
     RewriteRule ^about/?$ /about-us [R=301,L]
+    RewriteRule ^signup/?$ /user/login [R=301,L]
+    RewriteRule ^SignUp/?$ /user/login [R=301,L]
+    RewriteRule ^login/?$ /user/login [R=301,L]
 
     # اگر فایل یا دایرکتوری وجود دارد، مستقیم دسترسی بده
     RewriteCond %{REQUEST_FILENAME} -f [OR]
@@ -94,8 +102,6 @@
     # همه مسیرهای دیگر به index.html بفرست
     RewriteRule ^ index.html [L]
 </IfModule>
-
-
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php82” package as the default “PHP” programming language.
