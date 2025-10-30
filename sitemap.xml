@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://nitrocode.ir/</loc>
-    <lastmod>2025-10-28T00:00:00Z</lastmod>
+    <lastmod>2025-10-28T12:33:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses</loc>
-    <lastmod>2025-10-28T00:00:00Z</lastmod>
+    <lastmod>2025-10-28T12:33:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics</loc>
-    <lastmod>2025-10-27T15:17:15Z</lastmod>
+    <lastmod>2025-10-30T19:28:46Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -44,25 +44,31 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/about-string</loc>
-    <lastmod>2025-10-28T17:19:25Z</lastmod>
+    <lastmod>2025-10-30T14:57:34Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/if-statements-js</loc>
-    <lastmod>2025-10-28T19:54:24Z</lastmod>
+    <lastmod>2025-10-30T19:07:31Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nitrocode.ir/courses/javascript-basics/loop-for-js</loc>
+    <lastmod>2025-10-30T19:10:23Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/posts</loc>
-    <lastmod>2025-10-28T00:00:00Z</lastmod>
+    <lastmod>2025-10-28T12:33:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/posts/granite-4-released-by-ibm</loc>
-    <lastmod>2025-10-08T18:55:50Z</lastmod>
+    <lastmod>2025-10-30T13:54:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -73,26 +79,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nitrocode.ir/terms</loc>
-    <lastmod>2025-10-22T21:02:15Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
     <loc>https://nitrocode.ir/contact</loc>
-    <lastmod>2025-10-22T21:09:36Z</lastmod>
+    <lastmod>2025-10-29T03:58:02Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/about-us</loc>
     <lastmod>2025-10-16T22:06:42Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://nitrocode.ir/privacy</loc>
-    <lastmod>2025-10-10T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
