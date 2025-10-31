@@ -94,6 +94,7 @@
     RewriteRule ^SignUp/?$ /user/login [R=301,L]
     RewriteRule ^login/?$ /user/login [R=301,L]
     RewriteRule ^موارد-دیگر/سفارش-ساخت-سایت/?$ /posts/order-telegram-bot [R=301,L]
+    RewriteRule ^موارد-دیگر/سفارش-ساخت-ربات-تلگرام/?$ /posts/order-telegram-bot [R=301,L]
 
     # اگر فایل یا دایرکتوری وجود دارد، مستقیم دسترسی بده
     RewriteCond %{REQUEST_FILENAME} -f [OR]
