@@ -32,31 +32,37 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/variables-types-creation</loc>
-    <lastmod>2025-10-27T14:36:54Z</lastmod>
+    <lastmod>2025-11-03T08:19:15Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/logical-operators</loc>
-    <lastmod>2025-10-27T14:37:42Z</lastmod>
+    <lastmod>2025-11-03T08:20:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/about-string</loc>
-    <lastmod>2025-10-30T14:57:34Z</lastmod>
+    <lastmod>2025-11-02T20:37:33Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/if-statements-js</loc>
-    <lastmod>2025-10-30T19:07:31Z</lastmod>
+    <lastmod>2025-11-03T08:21:45Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/loop-for-js</loc>
-    <lastmod>2025-10-30T19:10:23Z</lastmod>
+    <lastmod>2025-11-02T20:33:29Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nitrocode.ir/courses/javascript-basics/array-in-js</loc>
+    <lastmod>2025-11-04T07:44:59Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -68,7 +74,7 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/posts/granite-4-released-by-ibm</loc>
-    <lastmod>2025-10-30T13:54:42Z</lastmod>
+    <lastmod>2025-10-31T07:20:51Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -79,14 +85,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://nitrocode.ir/posts/order-telegram-bot</loc>
+    <lastmod>2025-10-31T14:33:35Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://nitrocode.ir/contact</loc>
-    <lastmod>2025-10-29T03:58:02Z</lastmod>
+    <lastmod>2025-10-31T14:28:54Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/about-us</loc>
-    <lastmod>2025-10-16T22:06:42Z</lastmod>
+    <lastmod>2025-10-30T21:23:10Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
