@@ -16,7 +16,7 @@
     <loc>https://nitrocode.ir/courses/javascript-basics</loc>
     <lastmod>2025-10-30T19:28:46Z</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/introduction</loc>
@@ -62,7 +62,13 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/array-in-js</loc>
-    <lastmod>2025-11-04T07:44:59Z</lastmod>
+    <lastmod>2025-11-04T11:58:39Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nitrocode.ir/courses/javascript-basics/function-in-js</loc>
+    <lastmod>2025-11-07T11:17:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -80,7 +86,7 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/posts/programming-languages-beginners</loc>
-    <lastmod>2025-10-16T13:30:51Z</lastmod>
+    <lastmod>2025-11-04T08:57:20Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
