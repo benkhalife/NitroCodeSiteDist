@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://nitrocode.ir/courses/javascript-basics/function-in-js</loc>
-    <lastmod>2025-11-07T11:17:48Z</lastmod>
+    <lastmod>2025-11-07T16:32:11Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -93,6 +93,12 @@
   <url>
     <loc>https://nitrocode.ir/posts/order-telegram-bot</loc>
     <lastmod>2025-10-31T14:33:35Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://nitrocode.ir/posts/nodejs-vs-javascript</loc>
+    <lastmod>2025-11-07T16:32:48Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
