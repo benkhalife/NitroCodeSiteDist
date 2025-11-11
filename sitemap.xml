@@ -73,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://nitrocode.ir/courses/javascript-basics/dom-in-js</loc>
+    <lastmod>2025-11-10T21:25:55Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://nitrocode.ir/posts</loc>
     <lastmod>2025-10-28T12:33:25Z</lastmod>
     <changefreq>weekly</changefreq>
